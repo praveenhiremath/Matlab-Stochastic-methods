@@ -1,7 +1,7 @@
 function [M,num_centre] = rBoolRectangles(lambda,a,W,b)
-
-%poiss_value = lambda*[w(2)-w(1)]*[w(4)-w(3)];
-%no_disc = poissrnd(poiss_value);
+% Author: Praveenkumar Hiremath
+% Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+%       praveenkumar.hiremath2911@gmail.com (Private email)
 
  assert(lambda>0, 'lambda should be greater than zero');
  assert(a>0, 'a should be greater than zero');
