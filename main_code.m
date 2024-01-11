@@ -1,6 +1,10 @@
 clc;
 clear;
 
+% Author: Praveenkumar Hiremath
+% Email: praveenkumar.hiremath@mek.lth.se (Email at the University)
+%       praveenkumar.hiremath2911@gmail.com (Private email)
+
 lambda=200;
 %disc_radius = 0.2854;
 a=0.2;
